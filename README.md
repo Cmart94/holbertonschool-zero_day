@@ -1,1 +1,2 @@
-# holbertonschool-zero_day
+# holbertonschool-zero_da
+**This file is mandatory in all Holberton School projects**
